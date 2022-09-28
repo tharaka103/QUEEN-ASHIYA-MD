@@ -36,7 +36,7 @@ global.sc = 'https://github.com/ishansandeepa757'
 global.myweb = 'https://www.youtube.com/c/SinhanadaMusicRemix' //your chanal link
 global.packname = '𝙈𝘼𝙃𝘼𝙕𝙊𝙉𝙀😈💫'
 
-global.alivemsgimage = 'https://wallpaperaccess.com/full/3008776.jpg' // ඔයාගේ Alive massege එකට වැටෙන්න ඕන image එකක Link එකක් මෙතනට දෙන්න...
+global.alivemsgimage = 'https://i.ibb.co/4jPF9cx/tyh-tmkj.jpg' // ඔයාගේ Alive massege එකට වැටෙන්න ඕන image එකක Link එකක් මෙතනට දෙන්න...
 
 global.chatbotpre = "true"
 
